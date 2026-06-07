@@ -1,0 +1,15 @@
+# AS45090	
+# Shenzhen Tencent Computer Systems Company Limited
+# Used by futu
+IP-CIDR,49.232.0.0/14,no-resolve
+IP-CIDR,119.91.0.0/16,no-resolve
+IP-CIDR,101.33.192.0/18,no-resolve
+IP-CIDR,43.136.0.0/13,no-resolve
+IP-CIDR,106.52.0.0/14,no-resolve
+IP-CIDR,115.159.0.0/16,no-resolve
+IP-CIDR,119.29.32.0/19,no-resolve
+IP-CIDR,193.112.0.0/16,no-resolve
+IP-CIDR,43.144.0.0/15,no-resolve
+IP-CIDR,1.14.0.0/15,no-resolve
+IP-CIDR,121.5.0.0/16,no-resolve
+IP-CIDR,111.230.0.0/15,no-resolve
