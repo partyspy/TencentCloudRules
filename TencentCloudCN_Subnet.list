@@ -14,3 +14,4 @@ IP-CIDR,1.14.0.0/15,no-resolve
 IP-CIDR,121.5.0.0/16,no-resolve
 IP-CIDR,111.230.0.0/15,no-resolve
 IP-CIDR,175.178.0.0/16,no-resolve
+IP-CIDR,118.89.0.0/16,no-resolve
